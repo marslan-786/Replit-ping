@@ -2,7 +2,7 @@ const axios = require('axios');
 const http = require('http');
 
 // Yahan apna Replit wala Link dalen
-const targetURL = "https://24d98f29-1d7b-45e3-a79a-191bba70d06c-00-1t7fmakrae5nz.pike.replit.dev/";
+const targetURL = "https://d791ed0b-0cf5-455b-b7f0-d2275db16c93-00-3cktsp4pelwe8.pike.replit.dev/";
 
 // Railway ko khush rakhne k liye fake server (Port 8080)
 const server = http.createServer((req, res) => {
